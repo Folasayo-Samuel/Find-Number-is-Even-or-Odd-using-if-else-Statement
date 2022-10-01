@@ -1,0 +1,15 @@
+/home/saint/Desktop/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber
+/home/saint/Desktop/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.deps.json
+/home/saint/Desktop/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.runtimeconfig.json
+/home/saint/Desktop/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.dll
+/home/saint/Desktop/EvenOddNumber/bin/Debug/net6.0/EvenOddNumber.pdb
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.csproj.AssemblyReference.cache
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.AssemblyInfoInputs.cache
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.AssemblyInfo.cs
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.dll
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/refint/EvenOddNumber.dll
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.pdb
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/EvenOddNumber.genruntimeconfig.cache
+/home/saint/Desktop/EvenOddNumber/obj/Debug/net6.0/ref/EvenOddNumber.dll
